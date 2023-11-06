@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/https://github.com/JMC816/react-for-beginners.git/static/js/main.c1b64ca1.js",
-    "index.html": "/https://github.com/JMC816/react-for-beginners.git/index.html",
-    "main.c1b64ca1.js.map": "/https://github.com/JMC816/react-for-beginners.git/static/js/main.c1b64ca1.js.map"
+    "main.js": "/react-for-beginners/static/js/main.e007b5e9.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.e007b5e9.js.map": "/react-for-beginners/static/js/main.e007b5e9.js.map"
   },
   "entrypoints": [
-    "static/js/main.c1b64ca1.js"
+    "static/js/main.e007b5e9.js"
   ]
 }
